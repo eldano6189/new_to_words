@@ -62,6 +62,7 @@ export default class MyDocument extends Document {
             content="https://newtowords.com/favicon.ico"
           />
           <meta property="og:locale" content="en_US" />
+          <link rel="canonical" href="https://newtowords.com/" />
         </Head>
         <body>
           <Main />
