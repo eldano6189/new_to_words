@@ -36,6 +36,14 @@ export default class MyDocument extends Document {
             content="EVgx7zt4SCBzaMv7Ak_Zm7Qvlcz4oIhou9wy17a5JME"
           />
 
+          {/*  Google Addsense  */}
+          <script
+            data-ad-client="ca-pub-2147457164501253"
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+          ></script>
+
+          <link rel="icon" href="/favicon.ico" />
           <meta name="theme-color" content="#000000" />
           <meta
             name="description"
