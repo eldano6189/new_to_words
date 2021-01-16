@@ -1,7 +1,7 @@
 import "./globals.css";
 import Data from "../data/states/globalStates";
 import Header from "../components/header/header";
-import SideBar from "../components/sidebar/sidebar";
+import SideBar from "../components/sidebar/sideBar";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import * as gtag from "../../lib/gtag";
