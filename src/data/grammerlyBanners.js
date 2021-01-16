@@ -1,0 +1,17 @@
+export const grammerlyBanners = [
+  "01grammarchecker728x90.png",
+  "02fullpower728x90.png",
+  "02teamtool728x90.png",
+  "03stats728x90.png",
+  "03writingapp728x90.png",
+  "20150114061906-0701bigcheckmarkinstantcheck728x90.png",
+  "20150114061938-0601trustbadge1writingtool728x90.png",
+  "20150114062043-0102correctinginstantgrammarchecker728x90.png",
+  "20160818154023-491searchbannerads2_728x90.png",
+  "20160818154038-491searchbannerads3_728x90.png",
+  "20160818154047-491searchbannerads4_728x90.png",
+  "20160818154056-491searchbannerads5_728x90.png",
+  "20160818154106-491searchbannerads6_728x90.png",
+  "future728x90.png",
+  "lastminute728x90.png",
+];
